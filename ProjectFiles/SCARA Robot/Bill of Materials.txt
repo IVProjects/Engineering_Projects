@@ -1,0 +1,19 @@
+SCARA BOM for things not included in the SolidWorks assembly file:
+
+4x 200mm loops of 6mm wide GT2 timing belt
+Around 1.5m of GT2 timing belt for the Z-axis. 
+1x 400mm loop of GT2 timing belt for the final 5:1 arm segment
+
+15x 608 ball bearings
+
+1x Arduino Uno and CNC Shield V3.0
+
+1x 5v Breadboard PSU to power the MG996 servo
+
+4x A4988 stepper drivers (Or equivalent)
+
+Braided cable sleeving for cable management
+
+4x Limit Switches
+
+

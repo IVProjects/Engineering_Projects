@@ -1,4 +1,4 @@
-SCARA BOM for things not included in the SolidWorks assembly file:
+SCARA BOM for items not included in the SolidWorks assembly file:
 
 4x 200mm loops of 6mm wide GT2 timing belt
 Around 1.5m of GT2 timing belt for the Z-axis. 
@@ -15,5 +15,12 @@ Around 1.5m of GT2 timing belt for the Z-axis.
 Braided cable sleeving for cable management
 
 4x Limit Switches
+
+Note: The D-profile shafts that are used as the gearbox output shafts will need to be made from 8mm round bar.
+I used an angle grinder to remove the bulk of the material, and then finished it off by draw-filing while 
+frequently checking the dimension with calipers. If you have access to a mill, that would make it easier.
+You want to remove 1mm from one side to create the flat (So for the 8mm rods, it should measure 7mm on the flat).
+
+I wish I knew of a good source to buy D-profile shaft, but I was not able to find any. Luckily it's not too hard to make.
 
 

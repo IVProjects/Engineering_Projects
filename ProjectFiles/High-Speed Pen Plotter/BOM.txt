@@ -1,0 +1,35 @@
+Printed parts:
+2x idler tire
+1x left side frame
+1x right side frame
+1x printhead
+1x writing surface
+1x pen adapter
+2x idler shaft cap
+1x idler lever
+1x mirrored idler lever
+1x pen lifter bar
+2x grit wheel adapter
+1x feed table support
+1x sloped support table
+1x electronics box
+
+
+Other parts:
+1x Arduino Uno
+1x CNC shield V3
+3x A4988 stepper drivers
+24v PSU (at least 45w)
+1x 40mm fan
+Some 5mm rod
+GT2 Timing belt
+1x Timing belt idler pulley
+1x Timing belt drive pulley
+2x 120 grit Dremel sanding bands
+1x 240mm long 1/2" steel bar for weight
+1x Ink insert from a gel tip pen. I used a "0.7 TRU RED" pen
+1x 280mm long 10mm diameter rod for X-axis
+5x 605ZZ bearings
+1x 5x11x4 bearing
+1x 5mm to 5mm shaft coupler for Y-axis
+M3 hardware
